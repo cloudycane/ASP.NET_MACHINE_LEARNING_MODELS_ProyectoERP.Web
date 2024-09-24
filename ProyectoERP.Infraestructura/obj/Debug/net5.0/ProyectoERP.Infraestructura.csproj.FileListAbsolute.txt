@@ -1,0 +1,15 @@
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\bin\Debug\net5.0\ProyectoERP.Infraestructura.deps.json
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\bin\Debug\net5.0\ProyectoERP.Infraestructura.dll
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\bin\Debug\net5.0\ProyectoERP.Infraestructura.pdb
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\bin\Debug\net5.0\ProyectoERP.Dominio.dll
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\bin\Debug\net5.0\ProyectoERP.Dominio.pdb
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\obj\Debug\net5.0\ProyectoERP.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\obj\Debug\net5.0\ProyectoERP.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\obj\Debug\net5.0\ProyectoERP.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\obj\Debug\net5.0\ProyectoERP.Infraestructura.AssemblyInfo.cs
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\obj\Debug\net5.0\ProyectoERP.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\obj\Debug\net5.0\Proyecto.38F375E3.Up2Date
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\obj\Debug\net5.0\ProyectoERP.Infraestructura.dll
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\obj\Debug\net5.0\refint\ProyectoERP.Infraestructura.dll
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\obj\Debug\net5.0\ProyectoERP.Infraestructura.pdb
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\obj\Debug\net5.0\ref\ProyectoERP.Infraestructura.dll

@@ -1,0 +1,17 @@
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Aplicacion\bin\Debug\net5.0\ProyectoERP.Aplicacion.deps.json
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Aplicacion\bin\Debug\net5.0\ProyectoERP.Aplicacion.dll
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Aplicacion\bin\Debug\net5.0\ProyectoERP.Aplicacion.pdb
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Aplicacion\bin\Debug\net5.0\ProyectoERP.Dominio.dll
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Aplicacion\bin\Debug\net5.0\ProyectoERP.Infraestructura.dll
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Aplicacion\bin\Debug\net5.0\ProyectoERP.Dominio.pdb
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Aplicacion\bin\Debug\net5.0\ProyectoERP.Infraestructura.pdb
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Aplicacion\obj\Debug\net5.0\ProyectoERP.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Aplicacion\obj\Debug\net5.0\ProyectoERP.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Aplicacion\obj\Debug\net5.0\ProyectoERP.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Aplicacion\obj\Debug\net5.0\ProyectoERP.Aplicacion.AssemblyInfo.cs
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Aplicacion\obj\Debug\net5.0\ProyectoERP.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Aplicacion\obj\Debug\net5.0\Proyecto.4A805D2C.Up2Date
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Aplicacion\obj\Debug\net5.0\ProyectoERP.Aplicacion.dll
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Aplicacion\obj\Debug\net5.0\refint\ProyectoERP.Aplicacion.dll
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Aplicacion\obj\Debug\net5.0\ProyectoERP.Aplicacion.pdb
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Aplicacion\obj\Debug\net5.0\ref\ProyectoERP.Aplicacion.dll

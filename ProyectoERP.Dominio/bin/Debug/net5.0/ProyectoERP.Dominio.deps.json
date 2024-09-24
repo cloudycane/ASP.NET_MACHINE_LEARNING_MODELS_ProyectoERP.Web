@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProyectoERP.Dominio/1.0.0": {
+        "runtime": {
+          "ProyectoERP.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoERP.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

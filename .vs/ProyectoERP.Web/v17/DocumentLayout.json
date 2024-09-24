@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.web\\proyectoerp.web\\views\\salary\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|solutionrelative:proyectoerp.web\\views\\salary\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.web\\proyectoerp.web\\views\\salary\\predictsalary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|solutionrelative:proyectoerp.web\\views\\salary\\predictsalary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.web\\proyectoerp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|solutionrelative:proyectoerp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.web\\proyectoerp.web\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|solutionrelative:proyectoerp.web\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{6B094232-8E30-48CB-BF6E-5D6D54B89318}|ProyectoERP.Infraestructura\\ProyectoERP.Infraestructura.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.web\\proyectoerp.infraestructura\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{6B094232-8E30-48CB-BF6E-5D6D54B89318}|ProyectoERP.Infraestructura\\ProyectoERP.Infraestructura.csproj|solutionrelative:proyectoerp.infraestructura\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{6B094232-8E30-48CB-BF6E-5D6D54B89318}|ProyectoERP.Infraestructura\\ProyectoERP.Infraestructura.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.web\\proyectoerp.infraestructura\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{6B094232-8E30-48CB-BF6E-5D6D54B89318}|ProyectoERP.Infraestructura\\ProyectoERP.Infraestructura.csproj|solutionrelative:proyectoerp.infraestructura\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoERP.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoERP.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T22:25:07.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PredictSalary.cshtml",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Views\\Salary\\PredictSalary.cshtml",
+              "RelativeDocumentMoniker": "ProyectoERP.Web\\Views\\Salary\\PredictSalary.cshtml",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Views\\Salary\\PredictSalary.cshtml",
+              "RelativeToolTip": "ProyectoERP.Web\\Views\\Salary\\PredictSalary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T21:40:53.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Views\\Salary\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProyectoERP.Web\\Views\\Salary\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Views\\Salary\\Create.cshtml",
+              "RelativeToolTip": "ProyectoERP.Web\\Views\\Salary\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T21:36:46.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalaryController.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Controllers\\SalaryController.cs",
+              "RelativeDocumentMoniker": "ProyectoERP.Web\\Controllers\\SalaryController.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Controllers\\SalaryController.cs",
+              "RelativeToolTip": "ProyectoERP.Web\\Controllers\\SalaryController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:31:34.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Infraestructura\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProyectoERP.Infraestructura\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Infraestructura\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ProyectoERP.Infraestructura\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:23:18.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Infraestructura\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProyectoERP.Infraestructura\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Infraestructura\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ProyectoERP.Infraestructura\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:22:17.962Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

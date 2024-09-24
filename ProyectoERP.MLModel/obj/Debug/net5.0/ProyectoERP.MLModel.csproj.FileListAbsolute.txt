@@ -1,0 +1,12 @@
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.MLModel\bin\Debug\net5.0\ProyectoERP.MLModel.deps.json
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.MLModel\bin\Debug\net5.0\ProyectoERP.MLModel.dll
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.MLModel\bin\Debug\net5.0\ProyectoERP.MLModel.pdb
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.MLModel\obj\Debug\net5.0\ProyectoERP.MLModel.csproj.AssemblyReference.cache
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.MLModel\obj\Debug\net5.0\ProyectoERP.MLModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.MLModel\obj\Debug\net5.0\ProyectoERP.MLModel.AssemblyInfoInputs.cache
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.MLModel\obj\Debug\net5.0\ProyectoERP.MLModel.AssemblyInfo.cs
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.MLModel\obj\Debug\net5.0\ProyectoERP.MLModel.csproj.CoreCompileInputs.cache
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.MLModel\obj\Debug\net5.0\ProyectoERP.MLModel.dll
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.MLModel\obj\Debug\net5.0\refint\ProyectoERP.MLModel.dll
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.MLModel\obj\Debug\net5.0\ProyectoERP.MLModel.pdb
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.MLModel\obj\Debug\net5.0\ref\ProyectoERP.MLModel.dll

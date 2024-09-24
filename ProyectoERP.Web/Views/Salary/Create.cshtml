@@ -1,0 +1,22 @@
+﻿@using ProyectoERP.Dominio.Entidades;
+@model SalaryModel;
+
+<h2>Enter Salary Data</h2>
+
+<form asp-action="Create" method="post" style="margin-top: 5%;">
+    <div class="row">
+        <div class="col-sm-6">
+            <label for="YearsExperienced">Years of Experience (Prediction):</label>
+            <input type="number" name="YearsExperienced" required />
+        </div>
+        <div class="col-sm-6">
+            <label for="SalaryAmount">Salary (Current Salary):</label>
+            <input type="number" name="SalaryAmount" required />
+        </div>
+        
+        
+    </div>
+    <div class="float-lg-right mb-4">
+        <button type="submit">Submit</button>
+    </div>
+</form>

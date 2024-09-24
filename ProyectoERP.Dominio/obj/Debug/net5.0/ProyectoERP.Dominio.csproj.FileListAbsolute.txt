@@ -1,0 +1,11 @@
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Dominio\bin\Debug\net5.0\ProyectoERP.Dominio.deps.json
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Dominio\bin\Debug\net5.0\ProyectoERP.Dominio.dll
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Dominio\bin\Debug\net5.0\ProyectoERP.Dominio.pdb
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Dominio\obj\Debug\net5.0\ProyectoERP.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Dominio\obj\Debug\net5.0\ProyectoERP.Dominio.AssemblyInfoInputs.cache
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Dominio\obj\Debug\net5.0\ProyectoERP.Dominio.AssemblyInfo.cs
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Dominio\obj\Debug\net5.0\ProyectoERP.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Dominio\obj\Debug\net5.0\ProyectoERP.Dominio.dll
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Dominio\obj\Debug\net5.0\refint\ProyectoERP.Dominio.dll
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Dominio\obj\Debug\net5.0\ProyectoERP.Dominio.pdb
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Dominio\obj\Debug\net5.0\ref\ProyectoERP.Dominio.dll
