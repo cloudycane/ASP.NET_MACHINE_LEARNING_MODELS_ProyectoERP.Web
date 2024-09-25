@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.ML;
 using ProyectoERP.Dominio.Entidades;
+using ProyectoERP.Dominio.Interfaces;
 using ProyectoERP.Infraestructura.DataAccess;
 using ProyectoERP.MLModel;
 using System.Linq;
@@ -8,11 +9,13 @@ using System.Linq;
 public class SalaryController : Controller
 {
     private readonly ApplicationDbContext _context;
+    private readonly ISalaryRepository _salaryRepository;
     private readonly MLContext _mlContext;
 
-    public SalaryController(ApplicationDbContext context)
+    public SalaryController(ApplicationDbContext context, ISalaryRepository salaryRepository)
     {
         _context = context;
+        _salaryRepository = salaryRepository;
         _mlContext = new MLContext();
     }
 
@@ -32,8 +35,7 @@ public class SalaryController : Controller
     {
         if (ModelState.IsValid)
         {
-            _context.Salaries.Add(salary);
-            _context.SaveChanges();
+            _salaryRepository.Create(salary);
             return RedirectToAction(nameof(PredictSalary), new { yearsExperience = salary.YearsExperienced});
         }
         return View(salary);
@@ -42,7 +44,7 @@ public class SalaryController : Controller
     public IActionResult PredictSalary(float yearsExperience)
     {
         // Load data from the database
-        var salaryData = _context.Salaries.ToList();
+        var salaryData = _salaryRepository.ListSalaries();
 
         // Convert to IDataView
         IDataView dataView = _mlContext.Data.LoadFromEnumerable(salaryData.Select(s => new ModelInput

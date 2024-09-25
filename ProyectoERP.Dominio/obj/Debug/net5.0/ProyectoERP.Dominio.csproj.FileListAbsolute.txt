@@ -9,3 +9,4 @@ C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Dominio\obj\Debug\net5.0
 C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Dominio\obj\Debug\net5.0\refint\ProyectoERP.Dominio.dll
 C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Dominio\obj\Debug\net5.0\ProyectoERP.Dominio.pdb
 C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Dominio\obj\Debug\net5.0\ref\ProyectoERP.Dominio.dll
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Dominio\obj\Debug\net5.0\ProyectoERP.Dominio.sourcelink.json

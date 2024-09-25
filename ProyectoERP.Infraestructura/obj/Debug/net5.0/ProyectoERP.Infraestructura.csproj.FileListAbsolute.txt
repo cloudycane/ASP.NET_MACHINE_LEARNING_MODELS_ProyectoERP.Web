@@ -13,3 +13,4 @@ C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\obj\Debu
 C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\obj\Debug\net5.0\refint\ProyectoERP.Infraestructura.dll
 C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\obj\Debug\net5.0\ProyectoERP.Infraestructura.pdb
 C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\obj\Debug\net5.0\ref\ProyectoERP.Infraestructura.dll
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Infraestructura\obj\Debug\net5.0\ProyectoERP.Infraestructura.sourcelink.json

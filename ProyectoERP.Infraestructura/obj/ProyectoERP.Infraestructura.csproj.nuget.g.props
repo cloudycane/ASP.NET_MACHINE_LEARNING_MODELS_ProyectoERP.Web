@@ -13,7 +13,10 @@
     <SourceRoot Include="C:\Users\gesel\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.ml\1.5.0\build\netstandard2.0\Microsoft.ML.props" Condition="Exists('$(NuGetPackageRoot)microsoft.ml\1.5.0\build\netstandard2.0\Microsoft.ML.props')" />
+  </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\gesel\.nuget\packages\newtonsoft.json\10.0.1</PkgNewtonsoft_Json>
+    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\gesel\.nuget\packages\newtonsoft.json\10.0.3</PkgNewtonsoft_Json>
   </PropertyGroup>
 </Project>

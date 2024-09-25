@@ -7,6 +7,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using ProyectoERP.Dominio.Interfaces;
+using ProyectoERP.Infraestructura.Data;
 using ProyectoERP.Infraestructura.DataAccess;
 using System;
 using System.Collections.Generic;
@@ -32,9 +34,16 @@ namespace ProyectoERP.Web
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDatabaseDeveloperPageExceptionFilter();
 
+            
+
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
+
+            // REPOSITORIES
+
+            services.AddScoped<ISalaryRepository, SalaryRepository>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

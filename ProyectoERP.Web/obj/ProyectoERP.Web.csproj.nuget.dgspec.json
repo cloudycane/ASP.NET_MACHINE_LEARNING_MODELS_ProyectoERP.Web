@@ -130,6 +130,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.17, )"
+            },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.5.0, )"
             }
           },
           "imports": [

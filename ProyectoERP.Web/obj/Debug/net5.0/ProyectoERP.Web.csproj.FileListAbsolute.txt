@@ -126,3 +126,4 @@ C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Web\bin\Debug\net5.0\Pro
 C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Web\bin\Debug\net5.0\ProyectoERP.Infraestructura.pdb
 C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Web\obj\Debug\net5.0\Razor\Views\Salary\Create.cshtml.g.cs
 C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Web\obj\Debug\net5.0\Razor\Views\Salary\PredictSalary.cshtml.g.cs
+C:\Users\gesel\source\repos\ProyectoERP.Web\ProyectoERP.Web\obj\Debug\net5.0\ProyectoERP.Web.sourcelink.json

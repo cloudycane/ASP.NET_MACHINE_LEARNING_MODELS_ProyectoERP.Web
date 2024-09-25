@@ -1603,6 +1603,7 @@
           "Microsoft.EntityFrameworkCore": "5.0.17",
           "Microsoft.EntityFrameworkCore.Relational": "5.0.17",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17",
+          "Microsoft.ML": "1.5.0",
           "ProyectoERP.Dominio": "1.0.0"
         },
         "runtime": {

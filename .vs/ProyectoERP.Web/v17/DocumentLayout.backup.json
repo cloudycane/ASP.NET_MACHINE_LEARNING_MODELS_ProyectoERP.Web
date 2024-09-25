@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.web\\proyectoerp.web\\views\\salary\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|solutionrelative:proyectoerp.web\\views\\salary\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.web\\proyectoerp.web\\views\\salary\\predictsalary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|solutionrelative:proyectoerp.web\\views\\salary\\predictsalary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.web\\proyectoerp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|solutionrelative:proyectoerp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.web\\proyectoerp.web\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|solutionrelative:proyectoerp.web\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{6B094232-8E30-48CB-BF6E-5D6D54B89318}|ProyectoERP.Infraestructura\\ProyectoERP.Infraestructura.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.web\\proyectoerp.infraestructura\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:2:0:{6B094232-8E30-48CB-BF6E-5D6D54B89318}|ProyectoERP.Infraestructura\\ProyectoERP.Infraestructura.csproj|solutionrelative:proyectoerp.infraestructura\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71756B93-2391-4020-AF52-F38EEF7C2995}|ProyectoERP.Dominio\\ProyectoERP.Dominio.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.web\\proyectoerp.dominio\\interfaces\\isalaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71756B93-2391-4020-AF52-F38EEF7C2995}|ProyectoERP.Dominio\\ProyectoERP.Dominio.csproj|solutionrelative:proyectoerp.dominio\\interfaces\\isalaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:1:0:{6B094232-8E30-48CB-BF6E-5D6D54B89318}|ProyectoERP.Infraestructura\\ProyectoERP.Infraestructura.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.web\\proyectoerp.infraestructura\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{6B094232-8E30-48CB-BF6E-5D6D54B89318}|ProyectoERP.Infraestructura\\ProyectoERP.Infraestructura.csproj|solutionrelative:proyectoerp.infraestructura\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B094232-8E30-48CB-BF6E-5D6D54B89318}|ProyectoERP.Infraestructura\\ProyectoERP.Infraestructura.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.web\\proyectoerp.infraestructura\\data\\salaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B094232-8E30-48CB-BF6E-5D6D54B89318}|ProyectoERP.Infraestructura\\ProyectoERP.Infraestructura.csproj|solutionrelative:proyectoerp.infraestructura\\data\\salaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B094232-8E30-48CB-BF6E-5D6D54B89318}|ProyectoERP.Infraestructura\\ProyectoERP.Infraestructura.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.web\\proyectoerp.infraestructura\\ml\\modelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B094232-8E30-48CB-BF6E-5D6D54B89318}|ProyectoERP.Infraestructura\\ProyectoERP.Infraestructura.csproj|solutionrelative:proyectoerp.infraestructura\\ml\\modelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.web\\proyectoerp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|solutionrelative:proyectoerp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|c:\\users\\gesel\\source\\repos\\proyectoerp.web\\proyectoerp.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E069E40F-7FA3-4CD2-9724-C59A6DFC0CBD}|ProyectoERP.Web\\ProyectoERP.Web.csproj|solutionrelative:proyectoerp.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,79 +42,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ProyectoERP.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ProyectoERP.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T22:25:07.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PredictSalary.cshtml",
-              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Views\\Salary\\PredictSalary.cshtml",
-              "RelativeDocumentMoniker": "ProyectoERP.Web\\Views\\Salary\\PredictSalary.cshtml",
-              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Views\\Salary\\PredictSalary.cshtml",
-              "RelativeToolTip": "ProyectoERP.Web\\Views\\Salary\\PredictSalary.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T21:40:53.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Views\\Salary\\Create.cshtml",
-              "RelativeDocumentMoniker": "ProyectoERP.Web\\Views\\Salary\\Create.cshtml",
-              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Views\\Salary\\Create.cshtml",
-              "RelativeToolTip": "ProyectoERP.Web\\Views\\Salary\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T21:36:46.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SalaryController.cs",
-              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Controllers\\SalaryController.cs",
-              "RelativeDocumentMoniker": "ProyectoERP.Web\\Controllers\\SalaryController.cs",
-              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Controllers\\SalaryController.cs",
-              "RelativeToolTip": "ProyectoERP.Web\\Controllers\\SalaryController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBkAAAAFAAAAAAAAAA==",
+              "Title": "ModelLoader.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Infraestructura\\ML\\ModelLoader.cs",
+              "RelativeDocumentMoniker": "ProyectoERP.Infraestructura\\ML\\ModelLoader.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Infraestructura\\ML\\ModelLoader.cs",
+              "RelativeToolTip": "ProyectoERP.Infraestructura\\ML\\ModelLoader.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T21:31:34.441Z",
+              "WhenOpened": "2024-09-24T23:54:22.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Startup.cs",
+              "RelativeDocumentMoniker": "ProyectoERP.Web\\Startup.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Startup.cs",
+              "RelativeToolTip": "ProyectoERP.Web\\Startup.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:47:33.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Infraestructura\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "ProyectoERP.Infraestructura\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Infraestructura\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "ProyectoERP.Infraestructura\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoERP.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Program.cs",
+              "RelativeToolTip": "ProyectoERP.Web\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T21:23:18.828Z"
+              "WhenOpened": "2024-09-24T23:47:31.464Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Infraestructura\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "ProyectoERP.Infraestructura\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Infraestructura\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "ProyectoERP.Infraestructura\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SalaryController.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Controllers\\SalaryController.cs",
+              "RelativeDocumentMoniker": "ProyectoERP.Web\\Controllers\\SalaryController.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Web\\Controllers\\SalaryController.cs",
+              "RelativeToolTip": "ProyectoERP.Web\\Controllers\\SalaryController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvzcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T21:22:17.962Z"
+              "WhenOpened": "2024-09-24T23:42:56.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISalaryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Dominio\\Interfaces\\ISalaryRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoERP.Dominio\\Interfaces\\ISalaryRepository.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Dominio\\Interfaces\\ISalaryRepository.cs",
+              "RelativeToolTip": "ProyectoERP.Dominio\\Interfaces\\ISalaryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:37:52.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalaryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Infraestructura\\Data\\SalaryRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoERP.Infraestructura\\Data\\SalaryRepository.cs",
+              "ToolTip": "C:\\Users\\gesel\\source\\repos\\ProyectoERP.Web\\ProyectoERP.Infraestructura\\Data\\SalaryRepository.cs",
+              "RelativeToolTip": "ProyectoERP.Infraestructura\\Data\\SalaryRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:36:58.658Z",
+              "EditorCaption": ""
             }
           ]
         }
